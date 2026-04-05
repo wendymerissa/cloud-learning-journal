@@ -1,2 +1,3 @@
 # cloud-learning-journal
-My AWS cloud learning journey and projects
+Documenting my journey learning AWS cloud, security, and automation.
+Started April 2026
